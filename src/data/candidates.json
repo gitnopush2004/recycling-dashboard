@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "experience": 5,
+    "skills": "Leadership, Communication, Strategy",
+    "crisis_management_score": 9,
+    "sustainability_score": 8,
+    "team_motivation_score": 10,
+    "total_score": 27
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "experience": 3,
+    "skills": "Problem-solving, Negotiation, Planning",
+    "crisis_management_score": 6,
+    "sustainability_score": 7,
+    "team_motivation_score": 5,
+    "total_score": 18
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "experience": 7,
+    "skills": "Innovation, Risk Management, Teamwork",
+    "crisis_management_score": 8,
+    "sustainability_score": 9,
+    "team_motivation_score": 7,
+    "total_score": 24
+  }
+]
